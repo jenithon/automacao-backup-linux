@@ -43,3 +43,15 @@ Durante este projeto, pratiquei:
 - Registro de atividades em arquivos de log
 - Controle de versão com Git
 - Publicação de projetos no GitHub
+## 🌐 Fundamentos de Redes Linux
+
+Durante a etapa de redes, pratiquei:
+
+- Identificação de interfaces e endereços IP com `ip addr`
+- Visualização de rotas e gateway com `ip route`
+- Teste de conectividade com `ping`
+- Resolução de nomes com DNS utilizando `getent hosts`
+- Verificação de portas e serviços com `ss`
+- Requisições HTTP/HTTPS com `curl`
+- Análise do caminho dos pacotes com `traceroute`
+- Conceitos básicos de TCP, UDP, DNS, HTTP e HTTPS
